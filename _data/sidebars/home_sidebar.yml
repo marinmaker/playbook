@@ -1,0 +1,393 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product:
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web
+    folderitems:
+
+    - title: Get started
+      url: /
+      output: web
+      type: homepage
+
+    - title: Collaborators
+      url: /contribute/collaborators
+      output: web
+
+    - title: Contributing
+      url: /contribute/contributing
+      output: web
+
+    - title: Editing with Google Docs
+      url: /contribute/editing-google-docs
+      output: web
+
+    - title: Document Your Event
+      url: /contribute/document_your_event
+      output: web
+
+    - title: Pages That Need Content
+      url: /contribute/pages_that_need_content
+      output: web
+
+    - title: Branding
+      url: /assets/branding
+      output: web
+
+  - title: Social Events
+    output: web
+    folderitems:
+
+    - title: Socializing Events Overview
+      url: /makers_socializing
+      output: web
+      type:
+
+    - title: Attending Events
+      url: /makers_socializing/attending_events
+      output: web
+      type:
+
+    - title: Birthday Parties
+      url: /makers_socializing/birthday_parties
+      output: web
+      type:
+
+    - title: Festivals
+      url: /makers_socializing/festivals
+      output: web
+      type:
+
+    - title: Field Trips
+      url: /makers_socializing/field_trips
+      output: web
+      type:
+
+    - title: Game Nights
+      url: /makers_socializing/game_nights
+      output: web
+      type:
+
+    - title: Maker Conference
+      url: /makers_socializing/maker_conferences
+      output: web
+      type:
+
+    - title: Meetups
+      url: /makers_socializing/meetups
+      output: web
+      type:
+
+    - title: Seeing a Show
+      url: /makers_socializing/seeing_a_show
+      output: web
+      type:
+
+    - title: Socials & Parties
+      url: /makers_socializing/socials_parties
+      output: web
+      type:
+
+  - title: Makers Hosting Making Events
+    output: web
+    folderitems:
+
+    - title: Making Events Overview
+      url: /hosting_making
+      output: web
+      type:
+
+    - title: Build Competitions
+      url: /hosting_making/build_competitions
+      output: web
+      type:
+
+    - title: Community Builds
+      url: /hosting_making/community_builds
+      output: web
+      type:
+
+    - title: Disaster Recovery/Support Location
+      url: /hosting_making/disaster_support_location
+      output: web
+      type:
+
+    - title: Fundraisers
+      url: /hosting_making/fundraisers
+      output: web
+      type:
+
+    - title: Make and Takes
+      url: /hosting_making/make_and_takes
+      output: web
+      type:
+
+    - title: Make-A-Thon/Hackathon/Game Jam
+      url: /hosting_making/make_a_thon_hackathon
+      output: web
+      type:
+
+    - title: Maker Art Gallery (Maker Takeover)
+      url: /hosting_making/maker_art_gallery
+      output: web
+      type:
+
+    - title: Maker Camps
+      url: /hosting_making/maker_camps
+      output: web
+      type:
+
+    - title: Maker Conferences
+      url: /hosting_making/maker_conferences
+      output: web
+      type:
+
+    - title: Maker Faires & Maker Fests
+      url: /hosting_making/maker_faires_maker_fests
+      output: web
+      type:
+
+    - title: Maker Markets/Swap Meets
+      url: /hosting_making/maker_markets_swap_meets
+      output: web
+      type:
+
+    - title: Makerspace Classes
+      url: /hosting_making/makerspace_classes
+      output: web
+      type:
+
+    - title: Makerspace Equipment Training
+      url: /hosting_making/equipment_training
+      output: web
+      type:
+
+    - title: Meeting/Meetup Location
+      url: /hosting_making/meeting_location
+      output: web
+      type:
+
+    - title: Open House/Open Make
+      url: /hosting_making/open_house_open_make
+      output: web
+      type:
+
+    - title: Space Improvement
+      url: /hosting_making/space_improvement
+      output: web
+      type:
+
+    - title: Workshops for Kids
+      url: /hosting_making/workshops_for_kids
+      output: web
+      type:
+
+  - title: Makers Going Into Community
+    output: web
+    folderitems:
+
+    - title: Going into Community Overview
+      url: /makers_going_into_community
+      output: web
+      type:
+
+    - title: Building Competitions
+      url: /makers_going_into_community/building_competitions
+      output: web
+      type:
+
+    - title: Community Builds
+      url: /makers_going_into_community/community_builds
+      output: web
+      type:
+
+    - title: Make and Takes
+      url: /makers_going_into_community/make_and_takes
+      output: web
+      type:
+
+    - title: Maker Camps
+      url: /makers_going_into_community/maker_camps
+      output: web
+      type:
+
+    - title: Maker Meetups
+      url: /makers_going_into_community/maker_meetups
+      output: web
+      type:
+
+    - title: Power Racing Series Event
+      url: /makers_going_into_community/ppprs_event
+      output: web
+      type:
+
+    - title: Workshops for Kids
+      url: /makers_going_into_community/workshops_for_kids
+      output: web
+      type:
+
+  - title: General Event Topics
+    output: web
+    folderitems:
+
+    - title: General Event Topics Overview
+      url: /general_event_topics
+      output: web
+      type:
+
+    - title: Budgets
+      url: /general/budgets
+      output: web
+      type:
+
+    - title: Code of Conduct
+      url: /general/code_of_conduct
+      output: web
+      type:
+
+    - title: Event Documentation
+      url: /general/event_documentation
+      output: web
+      type:
+
+    - title: Event Technology
+      url: /general/event_technology
+      output: web
+      type:
+
+    - title: Insurance
+      url: /general/insurance
+      output: web
+      type:
+
+    - title: Licensing
+      url: /general/licensing_agreements
+      output: web
+      type:
+
+    - title: Locations
+      url: /general/locations
+      output: web
+      type:
+
+    - title: Marketing
+      url: /general/marketing
+      output: web
+      type:
+
+    - title: Participating Entities
+      url: /general/participating_entities
+      output: web
+      type:
+
+    - title: Photo/Video Release
+      url: /general/photo_video_release
+      output: web
+      type:
+
+    - title: Safety / Security
+      url: /general/safety_security
+      output: web
+      type:
+
+    - title: Setup Time / Strike Time
+      url: /general/setup_strike_time
+      output: web
+      type:
+
+    - title: Signage
+      url: /general/signage
+      output: web
+      type:
+
+    - title: Sponsorship
+      url: /general/sponsorships
+      output: web
+      type:
+
+    - title: Tickets
+      url: /general/tickets
+      output: web
+      type:
+
+    - title: Radios
+      url: /general/radios
+      output: web
+      type:
+
+    - title: Unexpected Issues
+      url: /general/unexpected_issues
+      output: web
+      type:
+
+    - title: Volunteers
+      url: /general/volunteers
+      output: web
+      type:
+
+    - title: 21+ Events
+      url: /general/21_plus_events
+      output: web
+      type:
+
+  - title: Going Virtual
+    output: web
+    folderitems:
+
+    - title: Things to Think About
+      url: /going_virtual
+      output: web
+      type:
+
+    - title: Virtual Power Racing
+      url: /virtual_power_racing
+      output: web
+      type:
+
+
+  - title: Event Listings
+    output: web
+    folderitems:
+
+    - title: Place Holder for Event Lists
+      url: /event_listing
+      output: web
+      type:
+
+  - title: Issues that Will Come Up
+    output: web
+    folderitems:
+
+    - title: Issues Overview
+      url: /issues_that_can_occur
+      output: web
+      type:
+
+    - title: Natural Disasters
+      url: /issues_that_can_occur/natural_disasters
+      output: web
+      type:
+
+    - title: Pandemics
+      url: /issues_that_can_occur/pandemics
+      output: web
+      type:
+
+    - title: Shootings
+      url: /issues_that_can_occur/shootings
+      output: web
+      type:
