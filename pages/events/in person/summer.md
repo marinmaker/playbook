@@ -1,25 +1,51 @@
 ---
-title: Make and Takes
-keywords: 
-tags: [make, take, workshop]
+title: Summer
+keywords: homepage
+tags: need_content
 sidebar: home_sidebar
-permalink: /makers_going_into_community/make_and_takes
-summary: A 'Make and Take' typically involves facilitating a hands-on workshop where participants get to make something and take it home with them. ('Make' and 'Take'!)
+permalink: /events/in_person/summer
+summary: Summer Events
 ---
 
-## What is a "Make and Take"?
+## Overview 
+During the summer, our Makerspace had a lot of miscellaneous events for all ages. For example, the "Zocalo" night events were outside and had small stations people could freely visit. They would often be able to take home a small project such as a balloon powered car.
 
-First of all, a Make and Take is a lot of fun! A "Make and Take" typically involves facilitating a hands-on workshop where participants get to _make_ something and _take_ it home with them. Pretty simple, right?
+***
 
-In the [Makers Hosting a Making Event]({{site.baseurl}}/hosting_making) section we covered a lof of the basics of a [Make and Takes]({{site.baseurl}}/hosting_making/make_and_takes) so here we'll cover what you'll need to know when you're taking your Make and Take to another location.
+## Topic 1 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-## Hit the Road
+### 1. Item 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-When you're doing your Make and Take at another location, not your own makerspace, library, workshop, etc. you'll need to plan ahead to make sure you've got what you need. Do you need electricity? Extension cords? Power strips? Access to water? These are all things you'll need to discuss with the host of the event (which is someone else this time!)
+###  2. Item 2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-Some other things to consider: Will the event be outside? Do you need a tent? Will you have to battle wind, rain, heat and other elements? 
+### 3. Item 3 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
+## Topic 2 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
+### 1. Item 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
----
+###  2. Item 2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
+### 3. Item 3 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+***
+
+## Resources 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+### 1. Examples
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+###  2. Other Guides
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+### 3. General Links 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
